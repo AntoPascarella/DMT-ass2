@@ -1,1 +1,4 @@
 slides/
+data/*.csv
+processed/*.parquet
+submission.csv
