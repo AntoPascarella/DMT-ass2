@@ -27,14 +27,11 @@ Learning-to-rank pipeline for the Expedia hotel search dataset, evaluated with N
 ## Repo layout
 
 ```
-main.tex                 LaTeX report (LNCS)
+ScientificReport.pdf     Assignment report
 notebook.ipynb           End-to-end pipeline, top to bottom
 figures/                 Plots used in the report
 outputs/                 Fairness summary CSVs + fair submission
-submission.csv           Final ensemble submission
-data/                    Raw CSVs (gitignored, download from Kaggle)
-processed/               Prepared parquet files (gitignored, generated)
-slides/, reference_paper.pdf, assignment_2.pdf   Supporting material
+reference_paper.pdf, assignment_2.pdf   Supporting material
 ```
 
 ## How to run
@@ -53,4 +50,3 @@ This runs all 16 cells in order and produces:
 - `outputs/submission_fair.csv` — fairness-aware submission
 - `outputs/fairness_*.csv` — fairness metrics
 
-Compile the report with `pdflatex main.tex` (requires the LNCS class).
