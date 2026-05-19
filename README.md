@@ -1,6 +1,6 @@
 # DMT Assignment 2 — Expedia Hotel Ranking
 
-Group 162: Alessandro Bertoncini, Antonio Pascarella, Vesper Kukler. Vrije Universiteit Amsterdam, 2026.
+Group 162: Antonio Pascarella, Alessandro Bertoncini, Vesper Kukler. Vrije Universiteit Amsterdam, 2026.
 
 Learning-to-rank pipeline for the Expedia hotel search dataset, evaluated with NDCG@5.
 
